@@ -1,6 +1,6 @@
 # desktop_webview_window
 
-## Original Project
+## Source Project
 - [pub.dev/packages/desktop_webview_window](https://pub.dev/packages/desktop_webview_window)
 - [MixinNetwork/flutter-plugins-desktop_webview_window](https://github.com/MixinNetwork/flutter-plugins/tree/main/packages/desktop_webview_window)
 
